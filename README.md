@@ -11,6 +11,6 @@
 **Hurray all done ready to go**
 
 ### Tasks done
-Import Contact from API
+- Import Contact from API
 
 API for contact list http://www.mocky.io/v2/581335f71000004204abaf83
